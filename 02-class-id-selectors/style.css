@@ -1,0 +1,17 @@
+.impar{
+    background-color: hsl(350, 89%, 76%);
+    font-family: Verdana, "dejaVu Sans", sans-serif;
+}
+
+.px{
+    font-size: 24px;
+}
+#dos{
+    color: blue;
+    font-size: 36px;
+}
+
+#cuatro{
+    background-color: rgba(145, 225, 25, 0.745) ;
+    font-weight: bold;
+}
